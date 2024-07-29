@@ -1,16 +1,16 @@
-## Hi there 👋
+## boas vindas ao meu perfil🌽
 
-<!--
-**bertotti029/bertotti029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mateus Bertotti
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo este espaço para minha organização e compartilhamentos dos projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### você entrar em contato comigo 📫
+
+bertotti.mateus@escola.pr.gov.br
+
+@bertotti029
+
+
+![](https://media1.tenor.com/m/8djVlvT56O4AAAAd/case-ih-1455.gif)
